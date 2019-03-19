@@ -16,12 +16,13 @@ fieldset {
 }
 
 input,
-textarea {
+textarea,
+select {
   border-color: #6e8c62;
 }
 
 hr {
-  border-color: rgba(112, 173, 85, .4);
+  border-color: rgba(112, 173, 85, .3);
 }
 
 .btn {
