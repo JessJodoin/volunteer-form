@@ -21,6 +21,10 @@ select {
   border-color: #6e8c62;
 }
 
+textarea {
+  height: 10em;
+}
+
 hr {
   border-color: rgba(112, 173, 85, .3);
 }
